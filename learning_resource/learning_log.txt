@@ -1,0 +1,14 @@
+Learned word: see | phrase: I would like to see the dishes on the menu | top_intent: service | sub_intent: menu
+Learned word: dish | phrase: I would like to see the dishes on the menu | top_intent: service | sub_intent: menu
+Updated word: dish | phrase: dishes | top_intent: service | sub_intent: menu
+Updated word: see | phrase: See menu | top_intent: service | sub_intent: menu
+Learned word: check | phrase: I would like to check the menu | top_intent: service | sub_intent: menu
+Learned word: dessert | phrase: are there dessert on the menu | top_intent: service | sub_intent: menu
+Updated word: dessert | phrase: dessert? | top_intent: service | sub_intent: menu
+Learned word: his | phrase: what is his full name | top_intent: about | sub_intent: False
+Learned word: full | phrase: what is his full name | top_intent: about | sub_intent: False
+Learned word: some | phrase: What are some of his project | top_intent: projects | sub_intent: False
+Updated word: his | phrase: What are some of his project | top_intent: projects | sub_intent: False
+Learned word: see | phrase: can I see his resume | top_intent: resume | sub_intent: False
+Updated word: his | phrase: can I see his resume | top_intent: resume | sub_intent: False
+Learned word: him | phrase: how do I contact him | top_intent: contact | sub_intent: False

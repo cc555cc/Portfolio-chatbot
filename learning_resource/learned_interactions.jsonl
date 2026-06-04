@@ -1,0 +1,5 @@
+{"word": "his", "top_intent": {"about": 1, "projects": 1, "resume": 1}, "sub_intent": {}, "observation": 3, "updated_at": "2026-05-28T10:51:23"}
+{"word": "full", "top_intent": {"about": 1}, "sub_intent": {}, "observation": 1, "updated_at": "2026-05-28T10:50:39"}
+{"word": "some", "top_intent": {"projects": 1}, "sub_intent": {}, "observation": 1, "updated_at": "2026-05-28T10:51:00"}
+{"word": "see", "top_intent": {"resume": 1}, "sub_intent": {}, "observation": 1, "updated_at": "2026-05-28T10:51:23"}
+{"word": "him", "top_intent": {"contact": 1}, "sub_intent": {}, "observation": 1, "updated_at": "2026-05-28T10:51:59"}
